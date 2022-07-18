@@ -2,6 +2,8 @@ import requests
 import os
 import sys
 
+#CODE BY ALVIAN DWI SYAHPUTRA XI TKJ II
+
 def optional():
     print("\n\nSCRIPT BY THE EXPLOIT V1.0\n\nCARA PEMAKAIAN:\n\n[?] Number WhatsApp : +628xxxx\n[?] Jumplah Spam : 3\n\n\n")
     os.system("echo -ne '\033]0;Ghost ChatX V1.0\007'")
