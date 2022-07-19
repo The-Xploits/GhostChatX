@@ -9,7 +9,7 @@ url = "https://aink-sanz.herokuapp.com/api/free-tutorial-spam-wa"
 
 def __optional__():
     os.system("clear")
-    os.system("echo -ne '\033]0;Ghost ChatX V1.0\007'")
+    os.system("echo -ne '\033]0;Ghost ChatX V1.2\007'")
 
 
 def __main__():
