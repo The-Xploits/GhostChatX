@@ -20,7 +20,7 @@ def __main__():
         phone_en = raw_input("\n[?] WhatsApp Number > ")
         att_en = input("[?] Number of Attacks > ")
         time.sleep(1)
-        print("\nWaiting To Run Attack\n")
+        print("\nWaiting To Run Attack...\n")
         
         data_en = {
             "nomor":phone_en
