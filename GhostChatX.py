@@ -3,7 +3,7 @@ import os
 import sys
 import time
 
-#CODE BY ALVIAN DWI SYAHPUTRA XI TKJ II
+#CODE BY THE-XPLOITS
 
 url = "https://aink-sanz.herokuapp.com/api/free-tutorial-spam-wa"
 
